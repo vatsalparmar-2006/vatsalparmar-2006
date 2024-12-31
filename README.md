@@ -27,13 +27,14 @@
 </p>
 
 <hr>
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalparmar-2006&show_icons=true&locale=en&layout=compact" alt="vatsalparmar-2006" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalparmar-2006&show_icons=true&locale=en" alt="vatsalparmar-2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalparmar-2006&" alt="vatsalparmar-2006" /></p>
+
+<hr>
 
 <h3 align="left">📈 Contribution Graph</h3>
 <div align="center">
