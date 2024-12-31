@@ -34,3 +34,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalparmar-2006&show_icons=true&locale=en" alt="vatsalparmar-2006" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalparmar-2006&" alt="vatsalparmar-2006" /></p>
+
+<h3 align="left">📈 Contribution Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalparmar-2006&theme=react-dark&hide_border=true&area=true" width="75%">
+</div>
